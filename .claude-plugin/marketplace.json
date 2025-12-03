@@ -144,6 +144,30 @@
         "./scientific-skills/protocolsio-integration",
         "./scientific-skills/get-available-resources"
       ]
+    },
+    {
+      "name": "scientific-skills--abloomston--claude-code",
+      "description": "Collection of scientific skills I may use for Claude Code)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./scientific-skills/hypothesis-generation",
+        "./scientific-skills/scientific-brainstorming",
+        "./scientific-skills/scientific-critical-thinking",
+        "./scientific-skills/scientific-writing",
+        "./scientific-skills/statistical-analysis",
+        "./scientific-skills/scientific-visualization",
+        "./scientific-skills/statsmodels",
+        "./scientific-skills/matplotlib",
+        "./scientific-skills/scikit-learn",
+        "./scientific-skills/seaborn",
+        "./scientific-skills/shap",
+        "./scientific-skills/exploratory-data-analysis",
+        "./scientific-skills/literature-review",
+        "./scientific-skills/peer-review",
+        "./scientific-skills/scholar-evaluation",
+        "./scientific-skills/get-available-resources"
+      ]
     }
   ]
 }
